@@ -30,3 +30,24 @@
 *.exe
 *.out
 *.app
+
+# QT
+*.release
+*.debug
+*.test
+*.user*
+*.sln
+*.vcproj
+ui_*.h
+Makefile
+GeneratedFiles/
+build/
+release/
+debug/
+build-*/
+.svn/
+WYAirLeakMainConsole/Common/LastShutdownTime
+*.xml
+*.xml
+*.db-wal
+WYAirLeakMainConsole/.qtc_clangd/*
